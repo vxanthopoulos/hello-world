@@ -1,7 +1,7 @@
 package gr.haec.hello;
 
 public class ClassA {
-	//sxoli  o
+	//sxolio
 	
 	
 	public int i1; 
